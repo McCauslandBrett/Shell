@@ -1,7 +1,5 @@
-# Assignment 4
-Implementing piping, appending redirection, input redirection and output
-redirection.
----
+# Shell
+
 ## Introduction
 - Basing our code off of our previous Rshell assignment, we now needed to
 implement the use of piping, appending redirection, input redirection and output
