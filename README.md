@@ -59,7 +59,6 @@ of times with m being the number of errors that has appeared.
  pressing enter again. (Assignment 4 bug)
 ---
 ## Contributors
-- Mark Alexander Bis <mbis001@ucr.edu>
 - Brett McCausland <bmcca009@ucr.edu>
 ---
 ## License & copyright
