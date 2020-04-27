@@ -63,6 +63,6 @@ of times with m being the number of errors that has appeared.
 - Brett McCausland <bmcca009@ucr.edu>
 ---
 ## License & copyright
-(c) Mark Alexander Bis & Brett McCausland, University of California, Riverside.
+(c) Brett McCausland, University of California, Riverside.
 
 Licensed under the [MIT License](License.txt).
